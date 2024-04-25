@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi!!!!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am Sherlock&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlocksuper&theme=transparent&hide_border=true&layout=compact&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherlocksuper&theme=transparent&hide_border=true&layout=compact&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
